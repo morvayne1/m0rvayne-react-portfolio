@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/m0rvayne-react-portfolio/static/css/main.f074cfc0.css",
+    "main.js": "/m0rvayne-react-portfolio/static/js/main.0273b3c8.js",
+    "static/media/catavatar.jpg": "/m0rvayne-react-portfolio/static/media/catavatar.b0051352d045a4eca32d.jpg",
+    "index.html": "/m0rvayne-react-portfolio/index.html",
+    "main.f074cfc0.css.map": "/m0rvayne-react-portfolio/static/css/main.f074cfc0.css.map",
+    "main.0273b3c8.js.map": "/m0rvayne-react-portfolio/static/js/main.0273b3c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f074cfc0.css",
+    "static/js/main.0273b3c8.js"
+  ]
+}
