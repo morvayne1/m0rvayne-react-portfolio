@@ -1,0 +1,26 @@
+.block {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.block img {
+    max-width:350px;
+    max-height: 350px;
+    margin: 20px 10px;
+    border-radius: 50px;
+    
+}
+
+.block div {
+    flex: 1;
+}
+
+.block p { 
+    color: black;
+    line-height: 1.6;
+}
+
+.text {
+    padding-top: 40px;
+    margin: 0 10px;
+}

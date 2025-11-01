@@ -1,0 +1,33 @@
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
+.welcomeText {
+    padding: 0 10px;
+    margin: 0;
+}
+
+.checkBtn { 
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    padding: 5px 10px;
+    margin: 15px 10px;
+    transition: all 0.3s ease;
+}
+
+.checkBtn:hover {
+    background: linear-gradient(90deg, #000 0%, #fff 100%);
+    color: black;
+    transform: scale(1.05)
+}
+
+h1 { 
+    margin-bottom: 0px;
+}
+
+p {
+    margin-top: 10px;
+    color: rgb(83, 83, 83);
+}
